@@ -1,0 +1,2 @@
+# qtumcore
+qtumcorekim
